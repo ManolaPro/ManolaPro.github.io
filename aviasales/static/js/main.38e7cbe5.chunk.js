@@ -20,7 +20,7 @@
                 h = s(34),
                 p = s(32),
                 b = s(33),
-                f = s.p + "../../../static/media/Logo.8bb77c6b.svg",
+                f = s.p + "aviasales/static/media/Logo.8bb77c6b.svg",
                 d = (s(22), s(23), function (t) {
                     Object(u.a)(s, t);
                     var e = Object(j.a)(s);
